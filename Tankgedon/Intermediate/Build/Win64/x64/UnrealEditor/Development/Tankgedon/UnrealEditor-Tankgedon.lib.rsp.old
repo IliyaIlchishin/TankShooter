@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Tankgedon.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\TankgedonEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tankgedon\Tankgedon.init.gen.cpp.obj"
+"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tankgedon\TankgedonGameModeBase.gen.cpp.obj"
+"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tankgedon\TankPawn.gen.cpp.obj"
+"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tankgedon\Tankgedon.cpp.obj"
+"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tankgedon\TankgedonGameModeBase.cpp.obj"
+"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tankgedon\TankPawn.cpp.obj"
+"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tankgedon\Default.rc2.res"
+/OUT:"D:\UE5\Projects\TankShooter\Tankgedon\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tankgedon\UnrealEditor-Tankgedon.lib"

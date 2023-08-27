@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5\\projects\\tankshooter\\tankgedon\\source\\tankgedon\\tankpawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\x64\\tankgedoneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tankgedon\\definitions.tankgedon.h",
+            "d:\\ue5\\projects\\tankshooter\\tankgedon\\source\\tankgedon\\tankpawn.h",
+            "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\unrealeditor\\inc\\tankgedon\\uht\\tankpawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UE5/Projects/TankShooter/Tankgedon/Content/Maps/MainLevel.umap",
+				"D:/UE5/Projects/TankShooter/Tankgedon/Content/TankPawn.uasset",
 				"D:/UE5/Projects/TankShooter/Tankgedon/Content/NewMap_HLOD0_Instancing.uasset",
 				"D:/UE5/Projects/TankShooter/Tankgedon/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset",
 				"D:/UE5/Projects/TankShooter/Tankgedon/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset",

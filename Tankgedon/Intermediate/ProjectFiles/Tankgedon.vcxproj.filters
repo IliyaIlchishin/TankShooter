@@ -11,6 +11,8 @@
     <None Include="..\..\Source\TankgedonEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -42,6 +44,18 @@
       <Filter>Source\Tankgedon</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Tankgedon\TankgedonGameModeBase.h">
+      <Filter>Source\Tankgedon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tankgedon\TankPawn.cpp">
+      <Filter>Source\Tankgedon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankgedon\TankPawn.h">
+      <Filter>Source\Tankgedon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tankgedon\TankPlayerController.cpp">
+      <Filter>Source\Tankgedon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankgedon\TankPlayerController.h">
       <Filter>Source\Tankgedon</Filter>
     </ClInclude>
   </ItemGroup>
