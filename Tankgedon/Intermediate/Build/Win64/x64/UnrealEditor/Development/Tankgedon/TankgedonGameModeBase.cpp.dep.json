@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5\\projects\\tankshooter\\tankgedon\\source\\tankgedon\\tankgedongamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\x64\\tankgedoneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tankgedon\\definitions.tankgedon.h",
+            "d:\\ue5\\projects\\tankshooter\\tankgedon\\source\\tankgedon\\tankgedongamemodebase.h",
+            "d:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\unrealeditor\\inc\\tankgedon\\uht\\tankgedongamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

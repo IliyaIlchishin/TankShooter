@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE5\\Projects\\TankShooter\\Tankgedon\\Source\\Tankgedon\\Tankgedon.Build.cs",
+		"D:\\UE5\\Projects\\TankShooter\\Tankgedon\\Source\\Tankgedon.Target.cs",
+		"D:\\UE5\\Projects\\TankShooter\\Tankgedon\\Source\\TankgedonEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.0"
+}
