@@ -6,7 +6,7 @@
 #include "GameFramework/Pawn.h"
 #include "TankPawn.generated.h"
 
-class UStaticMeshComponen;
+class UStaticMeshComponent;
 
 
 UCLASS()
@@ -20,13 +20,13 @@ public:
 
 protected:
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = " Components")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Components")
 		UStaticMeshComponent* BodyMesh;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = " Components")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Components")
 		UStaticMeshComponent* TurretMesh;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = " Components")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Components")
 		class UBoxComponent* BoxCollision; 
 
 

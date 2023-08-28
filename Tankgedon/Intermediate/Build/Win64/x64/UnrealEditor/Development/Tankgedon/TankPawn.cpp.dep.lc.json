@@ -6,6 +6,10 @@
         "PCH": "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\x64\\tankgedoneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
             "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tankgedon\\definitions.tankgedon.h",
+            "d:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
             "d:\\ue5\\projects\\tankshooter\\tankgedon\\source\\tankgedon\\tankpawn.h",
             "d:\\ue5\\projects\\tankshooter\\tankgedon\\intermediate\\build\\win64\\unrealeditor\\inc\\tankgedon\\uht\\tankpawn.generated.h"
         ],
